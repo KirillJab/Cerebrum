@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 71daa06488aeff84ca2a8ff32c728438
+  - enabled: 1
+    path: Assets/Scenes/AttentivnessScene.unity
+    guid: 8ee09400c1a6bd84d83e2858edaa0716
+  - enabled: 1
+    path: Assets/Scenes/Shulte.unity
+    guid: 227386ae45b640e4c81568865ecfe8f9
+  - enabled: 1
+    path: Assets/Scenes/Colors.unity
+    guid: 2dfc6edb678f2df43a05a335ae05f50c
+  - enabled: 1
+    path: Assets/Scenes/MemoryScene.unity
+    guid: e8dea11907048614eac99d46f4d55572
+  - enabled: 1
+    path: Assets/Scenes/MemTheory.unity
+    guid: b659c3db2c128d74eae49ae7d04fafef
+  - enabled: 1
+    path: Assets/Scenes/MemPractice.unity
+    guid: eafe31fad5f8ecc4d813c8ab29cd2e51
+  - enabled: 1
+    path: Assets/Scenes/Fish.unity
+    guid: 70e3004d0340b274790317d267461f83
+  - enabled: 1
+    path: Assets/Scenes/Dictionary.unity
+    guid: 0744258904b0b634b9ac74c2ddb66d17
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 50bee60d8d841564f9e60b7f363eee3f
+  m_configObjects: {}
